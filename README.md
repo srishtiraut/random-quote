@@ -1,3 +1,6 @@
+Following is the link of the youtube video i followed to create this random quote generator app.
+https://youtu.be/oZb_nGEKZTQ?si=y_V9fNJDm0LKmtcg
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
